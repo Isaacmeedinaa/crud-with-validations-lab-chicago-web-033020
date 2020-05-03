@@ -1,0 +1,1 @@
+Song.create(title: "Lose Yourself", artist_name: "Eminem", genre: "Hip Hop", released: true, release_year: 2002)
